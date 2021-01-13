@@ -1,11 +1,11 @@
 import '../css/App.css';
 
+import MainBar from './MainBar';
+
 function App() {
   return (
     <main>
-      <header>
-        GATHER
-      </header>
+      <MainBar />
       <div>
         <p>
           Hello World!
